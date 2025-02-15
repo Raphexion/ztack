@@ -14,3 +14,8 @@ which means it is either at type T or an error.
 Whereas, `?T` is an optional type, meaning it can hold either a value or null.
 
 It is somewhat similar to Either and Maybe in Haskell.
+
+## Links
+
+Interesting solution for the House exercise.
+https://exercism.org/tracks/zig/exercises/house/solutions/david82
